@@ -1,0 +1,9 @@
+path: D:/app/yolo_project/dataset
+train: images/train
+val: images/val
+
+names:
+  0: blue
+  1: red
+  2: green
+  3: yellow

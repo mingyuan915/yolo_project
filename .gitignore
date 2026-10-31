@@ -1,0 +1,8 @@
+# Ignore local dataset files
+dataset/
+yolo_env/
+weights/
+runs/
+__pycache__/
+*.pt
+*.jpg  # 如果根目录下有很多测试图片，建议也忽略
